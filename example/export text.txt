@@ -1,0 +1,10 @@
+PROJECT_ROOT: tool scan show/
+├── example
+│   └── logo.png
+├── how.txt
+├── img.py
+├── python src
+└── tool
+    └── scan.exe
+
+>> FULL_IMAGE_EXPORTED_SUCCESSFULLY
